@@ -1,5 +1,5 @@
-# CodingBat Python Problems
-Release 0.0.1
+# CodingBat Python Challenge
+Release 0.1.0
 
 Collection of worked CodingBat problems in Python.
 
@@ -17,5 +17,15 @@ Collection of worked CodingBat problems in Python.
   - pos_neg.py
   - sleep_in.py
   - sum_double.py
+- Warmup-2
+  - array_count9.py
+  - array_front9.py
+  - array123.py
+  - front_times.py
+  - last2.py
+  - string_bits.py
+  - string_match.py
+  - string_splosion.py
+  - string_times.py
 - CHANGELOG.md
 - README.md
