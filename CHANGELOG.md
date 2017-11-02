@@ -4,9 +4,21 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/).
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## [0.4.0] 2017-11-02
+- Logic-1
+  - alarm_clock.py
+  - caught_speeding.py
+  - cigar_party.py
+  - date_fashion.py
+  - int1to10.py
+  - love6.py
+  - near_ten.py
+  - sorta_sum.py
+  - squirrel_play.py
+
 ## [0.3.0] 2017-11-02
 ### Added
-- List-1 complete
+- List-1
   - common_end.py
   - first_last6.py
   - has23.py
@@ -20,7 +32,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [0.2.0] 2017-11-02
 ### Added
-- String-1 complete
+- String-1
   - combo_string.py
   - extra_end.py
   - first_half.py
@@ -35,7 +47,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [0.1.0] 2017-11-02
 ### Added
-- Warmup-2 complete
+- Warmup-2
   - array_count9.py
   - array_front9.py
   - array123.py
@@ -51,7 +63,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [0.0.1] 2017-11-01
 ### Added
-- Warmup-1 complete
+- Warmup-1
   - diff21.py
   - front_back.py
   - front3.py

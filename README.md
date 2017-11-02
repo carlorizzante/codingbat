@@ -1,5 +1,5 @@
 # CodingBat Python Challenge
-Release 0.3.0
+Release 0.4.0
 
 Collection of worked CodingBat problems in Python.
 
@@ -50,5 +50,15 @@ Collection of worked CodingBat problems in Python.
   - same_first_last.py
   - sum2.py
   - sum3.py
+- Logic-1
+  - alarm_clock.py
+  - caught_speeding.py
+  - cigar_party.py
+  - date_fashion.py
+  - int1to10.py
+  - love6.py
+  - near_ten.py
+  - sorta_sum.py
+  - squirrel_play.py
 - CHANGELOG.md
 - README.md
