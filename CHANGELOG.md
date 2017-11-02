@@ -4,6 +4,21 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/).
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## [0.2.0] 2017-11-02
+### Added
+- String-1 complete
+  - combo_string.py
+  - extra_end.py
+  - first_half.py
+  - first_two.py
+  - hello_name.py
+  - left2.py
+  - make_abba.py
+  - make_out_word.py
+  - make_tags.py
+  - non_start.py
+  - without_end.py
+
 ## [0.1.0] 2017-11-02
 ### Added
 - Warmup-2 complete

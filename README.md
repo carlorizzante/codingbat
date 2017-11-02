@@ -1,5 +1,5 @@
 # CodingBat Python Challenge
-Release 0.1.0
+Release 0.2.0
 
 Collection of worked CodingBat problems in Python.
 
@@ -27,5 +27,17 @@ Collection of worked CodingBat problems in Python.
   - string_match.py
   - string_splosion.py
   - string_times.py
+- String-1
+  - combo_string.py
+  - extra_end.py
+  - first_half.py
+  - first_two.py
+  - hello_name.py
+  - left2.py
+  - make_abba.py
+  - make_out_word.py
+  - make_tags.py
+  - non_start.py
+  - without_end.py
 - CHANGELOG.md
 - README.md
