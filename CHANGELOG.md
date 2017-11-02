@@ -4,6 +4,20 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/).
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## [0.3.0] 2017-11-02
+### Added
+- List-1 complete
+  - common_end.py
+  - first_last6.py
+  - has23.py
+  - make_ends.py
+  - middle_way.py
+  - reverse3.py
+  - rotate_left3.py
+  - same_first_last.py
+  - sum2.py
+  - sum3.py
+
 ## [0.2.0] 2017-11-02
 ### Added
 - String-1 complete

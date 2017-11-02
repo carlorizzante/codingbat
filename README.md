@@ -1,5 +1,5 @@
 # CodingBat Python Challenge
-Release 0.2.0
+Release 0.3.0
 
 Collection of worked CodingBat problems in Python.
 
@@ -39,5 +39,16 @@ Collection of worked CodingBat problems in Python.
   - make_tags.py
   - non_start.py
   - without_end.py
+- List-1
+  - common_end.py
+  - first_last6.py
+  - has23.py
+  - make_ends.py
+  - middle_way.py
+  - reverse3.py
+  - rotate_left3.py
+  - same_first_last.py
+  - sum2.py
+  - sum3.py
 - CHANGELOG.md
 - README.md
