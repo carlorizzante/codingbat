@@ -4,7 +4,19 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/).
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## [0.5.0] 2017-11-03
+### Added
+- Logic-2
+  - close_far.py
+  - lone_sum.py
+  - lucky_sum.py
+  - make_bricks.py
+  - make_chocolate.py
+  - no_teen_sum.py
+  - round_sum.py
+
 ## [0.4.0] 2017-11-02
+### Added
 - Logic-1
   - alarm_clock.py
   - caught_speeding.py

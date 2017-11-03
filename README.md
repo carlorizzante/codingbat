@@ -1,5 +1,5 @@
 # CodingBat Python Challenge
-Release 0.4.0
+Release 0.5.0
 
 Collection of worked CodingBat problems in Python.
 
@@ -60,5 +60,13 @@ Collection of worked CodingBat problems in Python.
   - near_ten.py
   - sorta_sum.py
   - squirrel_play.py
+- Logic-2
+  - close_far.py
+  - lone_sum.py
+  - lucky_sum.py
+  - make_bricks.py
+  - make_chocolate.py
+  - no_teen_sum.py
+  - round_sum.py
 - CHANGELOG.md
 - README.md
