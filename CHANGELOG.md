@@ -4,6 +4,16 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/).
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## [0.1.0] 2017-11-03
+### Added
+- List-2
+  - big_diff.py
+  - centered_average.py
+  - count_evens.py
+  - has22.py
+  - sum13.py
+  - sum67.py
+
 ## [0.6.0] 2017-11-03
 ### Added
 - String-2

@@ -1,5 +1,5 @@
 # CodingBat Python Challenge
-Release 0.6.0
+Release 0.1.0
 
 Collection of worked CodingBat problems in Python.
 
@@ -75,5 +75,12 @@ Collection of worked CodingBat problems in Python.
   - double_char.py
   - end_other.py
   - xyz_there.py
+- List-2
+  - big_diff.py
+  - centered_average.py
+  - count_evens.py
+  - has22.py
+  - sum13.py
+  - sum67.py
 - CHANGELOG.md
 - README.md
