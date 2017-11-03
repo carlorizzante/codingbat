@@ -4,6 +4,16 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/).
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## [0.6.0] 2017-11-03
+### Added
+- String-2
+  - cat_dog.py
+  - count_code.py
+  - count_hi.py
+  - double_char.py
+  - end_other.py
+  - xyz_there.py
+
 ## [0.5.0] 2017-11-03
 ### Added
 - Logic-2

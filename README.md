@@ -1,5 +1,5 @@
 # CodingBat Python Challenge
-Release 0.5.0
+Release 0.6.0
 
 Collection of worked CodingBat problems in Python.
 
@@ -68,5 +68,12 @@ Collection of worked CodingBat problems in Python.
   - make_chocolate.py
   - no_teen_sum.py
   - round_sum.py
+- String-2
+  - cat_dog.py
+  - count_code.py
+  - count_hi.py
+  - double_char.py
+  - end_other.py
+  - xyz_there.py
 - CHANGELOG.md
 - README.md
